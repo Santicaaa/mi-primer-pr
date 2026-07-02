@@ -4,7 +4,7 @@ Un repositorio de práctica para aprender el flujo de trabajo con Git y Pull Req
 
 ## ¿Qué hay acá?
 
-- `saludar.py`: un script mínimo que imprmie un saludo.
+- `saludar.py`: un script mínimo que imprime un saludo.
 
 ## Uso
 
